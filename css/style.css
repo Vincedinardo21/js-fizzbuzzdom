@@ -5,7 +5,6 @@
 }
 
 .container {
-    width: 100%;
     margin: 0 auto;
     background-color: blueviolet;
 }
@@ -19,5 +18,8 @@ ul {
 li {
     border: 1px solid black;
     padding: 20px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
 }
 
